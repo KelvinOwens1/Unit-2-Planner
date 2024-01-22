@@ -1,0 +1,28 @@
+test | January 4, 2024 
+test1 | April 3, 2024 
+test2 | October 4, 2024 
+test3 | December 5, 2024 
+
+
+
+
+# dic = {}
+# date_checker = []
+# event_list = []
+# for key, value in load_dictionary.items():
+#   event = key, value
+#   event_list.append(event)
+#   date_checker.append(key)
+
+# event = input("Name of event:  ").strip()
+# date = date_validation_event()
+
+# dic[date] = event
+# # dic.update({date : event})
+# print(dic[date])
+
+
+# for item in date_checker:
+#   if item == date:
+#     print("Yay")
+

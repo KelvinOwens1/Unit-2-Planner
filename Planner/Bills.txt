@@ -1,0 +1,4 @@
+Rent 750.0 15th True
+Electricity 150.0 6th False
+Internet 100.0 4th False
+CarInsurance 90.0 17th True
